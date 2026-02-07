@@ -1,0 +1,7 @@
+2026-02-07 05:46:12,639 - app.config - INFO - Database initialized successfully
+2026-02-07 05:46:19,425 - app.config - INFO - Health check requested
+2026-02-07 05:46:19,810 - app.config - WARNING - Short code not found: favicon.ico
+2026-02-07 05:47:38,965 - app.config - INFO - Created short URL: 3AniDL -> https://www.google.com/
+2026-02-07 05:47:38,966 - app.config - INFO - Shortened URL created: http://localhost:8000/3AniDL
+2026-02-07 05:48:15,957 - app.config - INFO - Incremented clicks for 3AniDL
+2026-02-07 05:48:15,957 - app.config - INFO - Redirecting 3AniDL -> https://www.google.com/
